@@ -1,0 +1,13 @@
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.exe
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.deps.json
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.runtimeconfig.json
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.runtimeconfig.dev.json
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.dll
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\bin\Debug\netcoreapp3.1\MonopolyGame.pdb
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.csprojAssemblyReference.cache
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.csproj.CoreCompileInputs.cache
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.AssemblyInfoInputs.cache
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.AssemblyInfo.cs
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.dll
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.pdb
+C:\Users\hspra\workspace\MonopolyGame\MonopolyGame\obj\Debug\netcoreapp3.1\MonopolyGame.genruntimeconfig.cache
