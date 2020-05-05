@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MonopolyGame.Models
 {
-    class Pieces
+    public class Pieces
     {
         public int PieceId { get; set; }
     }

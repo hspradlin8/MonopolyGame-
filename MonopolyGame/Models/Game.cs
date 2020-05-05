@@ -4,9 +4,15 @@ using System.Text;
 
 namespace MonopolyGame.Models
 {
-    class Game
+    public class Game
     {
         public int GameId { get; set; }
         public int PlayerId { get; set; }
+        
+
+        internal void AddCreateGame(CreateGame createGame)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

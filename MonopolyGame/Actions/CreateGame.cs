@@ -25,7 +25,7 @@ namespace MonopolyGame
             switch (Int32.Parse(input))
             {
                 case 1:
-                    //MonopolyGame.AddCreateGame(new CreateGame());
+                    game.AddCreateGame(new CreateGame());
                     break;
                 default:
                     break;
